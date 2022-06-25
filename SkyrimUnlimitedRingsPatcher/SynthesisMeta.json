@@ -1,0 +1,8 @@
+{
+  "Nickname": "SkyrimUnlimitedRingsPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Ensures all rings and amulets can be equiped simultaneously.",
+  "LongDescription": "Removes \"Ring\" and \"Amulet\" keywords, makes changed items invisible.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}
